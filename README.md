@@ -7,6 +7,6 @@ Read SafariBinaryCookies via Python
 
 ## How To use
 
- In Terminal inpout  "Python PythonScript-Path Safari.binarycookies"
- In Objective-C  you could use NSTask to excuse cmd. and use NSPipe to handle the outPutData
+1. In Terminal inpout  "Python PythonScript-Path Safari.binarycookies"
+2.  In Objective-C  you could use NSTask to excuse cmd. and use NSPipe to handle the outPutData
 
